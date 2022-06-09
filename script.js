@@ -54,7 +54,7 @@ const createMessage = (texte) => {
     messageCompteur();
     poseTrashListener();
 
-
+    let mavar ='';
 
 }
 
