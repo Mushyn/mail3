@@ -52,3 +52,8 @@ h6 {
     border-radius: 4px;
     background-color: white;
 }
+
+.monBouton:hover {
+    background-color: blue;
+    color: white;
+}
