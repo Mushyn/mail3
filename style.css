@@ -6,7 +6,11 @@ body {
     background-color: #F5F6FA;
     font-size: 14px;
 }
-
+#listMessage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 .row {
     display: flex;
     align-items: center;
